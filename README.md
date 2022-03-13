@@ -1,4 +1,4 @@
-# Depression-and-anxiety-prediction-on-university-students-of-Bangladesh.
+# Prediction of Depression and Anxiety using K-Nearest Neighbor Algorithm of University Students in Bangladesh.
 
 We've modified the data as per our requirement from primary data so Click on the link below to get the primary data.
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FN5BUJR
